@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ioksi\\GameOkSon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDA01CB-B777-69B9-1FA6-76D887348BFF}|Assembly-CSharp.csproj|c:\\users\\ioksi\\gameokson\\assets\\scripts\\homelessmancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FDA01CB-B777-69B9-1FA6-76D887348BFF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\homelessmancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDA01CB-B777-69B9-1FA6-76D887348BFF}|Assembly-CSharp.csproj|C:\\Users\\ioksi\\GameOkSon\\assets\\first_level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FDA01CB-B777-69B9-1FA6-76D887348BFF}|Assembly-CSharp.csproj|solutionrelative:assets\\first_level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDA01CB-B777-69B9-1FA6-76D887348BFF}|Assembly-CSharp.csproj|C:\\Users\\ioksi\\GameOkSon\\assets\\exit_in_rule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FDA01CB-B777-69B9-1FA6-76D887348BFF}|Assembly-CSharp.csproj|solutionrelative:assets\\exit_in_rule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDA01CB-B777-69B9-1FA6-76D887348BFF}|Assembly-CSharp.csproj|C:\\Users\\ioksi\\GameOkSon\\assets\\next_level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FDA01CB-B777-69B9-1FA6-76D887348BFF}|Assembly-CSharp.csproj|solutionrelative:assets\\next_level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDA01CB-B777-69B9-1FA6-76D887348BFF}|Assembly-CSharp.csproj|C:\\Users\\ioksi\\GameOkSon\\assets\\main_start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FDA01CB-B777-69B9-1FA6-76D887348BFF}|Assembly-CSharp.csproj|solutionrelative:assets\\main_start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDA01CB-B777-69B9-1FA6-76D887348BFF}|Assembly-CSharp.csproj|C:\\Users\\ioksi\\GameOkSon\\assets\\scripts\\gametime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FDA01CB-B777-69B9-1FA6-76D887348BFF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gametime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDA01CB-B777-69B9-1FA6-76D887348BFF}|Assembly-CSharp.csproj|C:\\Users\\ioksi\\GameOkSon\\assets\\colacanscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FDA01CB-B777-69B9-1FA6-76D887348BFF}|Assembly-CSharp.csproj|solutionrelative:assets\\colacanscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDA01CB-B777-69B9-1FA6-76D887348BFF}|Assembly-CSharp.csproj|C:\\Users\\ioksi\\GameOkSon\\assets\\playerobserverscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FDA01CB-B777-69B9-1FA6-76D887348BFF}|Assembly-CSharp.csproj|solutionrelative:assets\\playerobserverscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDA01CB-B777-69B9-1FA6-76D887348BFF}|Assembly-CSharp.csproj|C:\\Users\\ioksi\\GameOkSon\\assets\\scripts\\restart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FDA01CB-B777-69B9-1FA6-76D887348BFF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\restart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDA01CB-B777-69B9-1FA6-76D887348BFF}|Assembly-CSharp.csproj|C:\\Users\\ioksi\\GameOkSon\\assets\\rules_script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FDA01CB-B777-69B9-1FA6-76D887348BFF}|Assembly-CSharp.csproj|solutionrelative:assets\\rules_script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDA01CB-B777-69B9-1FA6-76D887348BFF}|Assembly-CSharp.csproj|C:\\Users\\ioksi\\GameOkSon\\assets\\contin_script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FDA01CB-B777-69B9-1FA6-76D887348BFF}|Assembly-CSharp.csproj|solutionrelative:assets\\contin_script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDA01CB-B777-69B9-1FA6-76D887348BFF}|Assembly-CSharp.csproj|C:\\Users\\ioksi\\GameOkSon\\assets\\menu_script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FDA01CB-B777-69B9-1FA6-76D887348BFF}|Assembly-CSharp.csproj|solutionrelative:assets\\menu_script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "First_Level.cs",
+              "DocumentMoniker": "C:\\Users\\ioksi\\GameOkSon\\Assets\\First_Level.cs",
+              "RelativeDocumentMoniker": "Assets\\First_Level.cs",
+              "ToolTip": "C:\\Users\\ioksi\\GameOkSon\\Assets\\First_Level.cs",
+              "RelativeToolTip": "Assets\\First_Level.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T11:41:31.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayerObserverScript.cs",
+              "DocumentMoniker": "C:\\Users\\ioksi\\GameOkSon\\Assets\\PlayerObserverScript.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerObserverScript.cs",
+              "ToolTip": "C:\\Users\\ioksi\\GameOkSon\\Assets\\PlayerObserverScript.cs",
+              "RelativeToolTip": "Assets\\PlayerObserverScript.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwB0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T10:06:23.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ColaCanScript.cs",
+              "DocumentMoniker": "C:\\Users\\ioksi\\GameOkSon\\Assets\\ColaCanScript.cs",
+              "RelativeDocumentMoniker": "Assets\\ColaCanScript.cs",
+              "ToolTip": "C:\\Users\\ioksi\\GameOkSon\\Assets\\ColaCanScript.cs",
+              "RelativeToolTip": "Assets\\ColaCanScript.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwBQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T09:44:48.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Next_Level.cs",
+              "DocumentMoniker": "C:\\Users\\ioksi\\GameOkSon\\Assets\\Next_Level.cs",
+              "RelativeDocumentMoniker": "Assets\\Next_Level.cs",
+              "ToolTip": "C:\\Users\\ioksi\\GameOkSon\\Assets\\Next_Level.cs",
+              "RelativeToolTip": "Assets\\Next_Level.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T13:13:40.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Rules_Script.cs",
+              "DocumentMoniker": "C:\\Users\\ioksi\\GameOkSon\\Assets\\Rules_Script.cs",
+              "RelativeDocumentMoniker": "Assets\\Rules_Script.cs",
+              "ToolTip": "C:\\Users\\ioksi\\GameOkSon\\Assets\\Rules_Script.cs",
+              "RelativeToolTip": "Assets\\Rules_Script.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAcwBQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T13:02:53.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Exit_in_Rule.cs",
+              "DocumentMoniker": "C:\\Users\\ioksi\\GameOkSon\\Assets\\Exit_in_Rule.cs",
+              "RelativeDocumentMoniker": "Assets\\Exit_in_Rule.cs",
+              "ToolTip": "C:\\Users\\ioksi\\GameOkSon\\Assets\\Exit_in_Rule.cs",
+              "RelativeToolTip": "Assets\\Exit_in_Rule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAUwBQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T12:57:48.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Main_Start.cs",
+              "DocumentMoniker": "C:\\Users\\ioksi\\GameOkSon\\Assets\\Main_Start.cs",
+              "RelativeDocumentMoniker": "Assets\\Main_Start.cs",
+              "ToolTip": "C:\\Users\\ioksi\\GameOkSon\\Assets\\Main_Start.cs",
+              "RelativeToolTip": "Assets\\Main_Start.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T12:49:43.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Contin_Script.cs",
+              "DocumentMoniker": "C:\\Users\\ioksi\\GameOkSon\\Assets\\Contin_Script.cs",
+              "RelativeDocumentMoniker": "Assets\\Contin_Script.cs",
+              "ToolTip": "C:\\Users\\ioksi\\GameOkSon\\Assets\\Contin_Script.cs",
+              "RelativeToolTip": "Assets\\Contin_Script.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T10:40:07.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Menu_Script.cs",
+              "DocumentMoniker": "C:\\Users\\ioksi\\GameOkSon\\Assets\\Menu_Script.cs",
+              "RelativeDocumentMoniker": "Assets\\Menu_Script.cs",
+              "ToolTip": "C:\\Users\\ioksi\\GameOkSon\\Assets\\Menu_Script.cs",
+              "RelativeToolTip": "Assets\\Menu_Script.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAcwBUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T10:25:22.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Restart.cs",
+              "DocumentMoniker": "C:\\Users\\ioksi\\GameOkSon\\Assets\\Scripts\\Restart.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Restart.cs",
+              "ToolTip": "C:\\Users\\ioksi\\GameOkSon\\Assets\\Scripts\\Restart.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Restart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T12:13:07.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameTime.cs",
+              "DocumentMoniker": "C:\\Users\\ioksi\\GameOkSon\\Assets\\Scripts\\GameTime.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameTime.cs",
+              "ToolTip": "C:\\Users\\ioksi\\GameOkSon\\Assets\\Scripts\\GameTime.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameTime.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBcAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T10:31:44.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomelessManController.cs",
+              "DocumentMoniker": "C:\\Users\\ioksi\\GameOkSon\\Assets\\Scripts\\HomelessManController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HomelessManController.cs",
+              "ToolTip": "C:\\Users\\ioksi\\GameOkSon\\Assets\\Scripts\\HomelessManController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HomelessManController.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAiwDgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T12:25:21.709Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
